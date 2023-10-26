@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 679553faa086cdc48a58556300e27230, type: 3}
+  m_Name: Bingivision
+  m_EditorClassIdentifier: 
+  title: Bingivision
+  fullName: workspaces/bingivision
+  characters:
+  - {fileID: 11400000, guid: 76d7c33551882574cb3339a10df2ae56, type: 2}
+  - {fileID: 11400000, guid: bfa7a8f4e1a27a2429b3150a7d118bab, type: 2}
+  scenes:
+  - {fileID: 11400000, guid: e091121addd662244aecac1e235eb719, type: 2}
+  integrations:
+  - {fileID: 11400000, guid: b86cefe08e498ae4595605f668ff884b, type: 2}
+  index: 0
